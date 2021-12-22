@@ -24,7 +24,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 --- 
 ## Contact
 
-Vanshaj Poonia- [vanshajpoonia@gmail.com](mailto:vanshajpoonia@gmail.com)
+Vanshaj Poonia- [vanshajfirebase@gmail.com](mailto:vanshajfirebase@gmail.com)
 
 
 ## License

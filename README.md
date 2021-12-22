@@ -15,7 +15,7 @@ npm run start
 ```
 
 ## The project is deployed on Firebase : 
-[Not-utube](https://mewtube-op.web.app/)
+[Mewtube](https://mewtube-op.web.app/)
 
 
 ## Contributing
